@@ -1,42 +1,36 @@
-🚴‍♂️ Bikes Sales Performance Analysis Dashboard
-📌 Project Overview
+# Hi there, I'm Islam Seddiq!👋
 
-This project presents a Power BI dashboard designed to analyze and monitor bike sales performance over multiple years.
-The goal is to transform raw sales data into a structured, interactive report that enables better decision-making.
+## About Me 🚀
 
-📊 Dashboard Features
+I'm a Junior Data Analyst with a passion for turning raw data into actionable insights. I enjoy working with SQL, Python, and visualization tools like Power BI to solve real-world problems. I have highly growth mindset along with critical thinking and problem solving skills. My goal is to help organizations make data-driven decisions that create meaningful impact.
 
-Key Metrics (KPIs): Track revenue, orders, and sales quantities at a glance
+- 🔭 Worked on: Excel project
+- 💻 Programming Languages: Python, SQL
+- 🌍 Human Languages: Arabic(native), English(fluent)
+- 📫 How to reach me: islamseddiq17@gmail.com
 
-Sales Trends: Analyze daily and monthly sales performance with interactive visuals
+## 🎯 Key Features
 
-Product Performance: Break down sales and returns by product category, color, and size
+- Building interactive dashboards with filters and slicers
+- Creating data models to handle multiple datasets
+- Applying DAX for calculations and KPIs
+- Designing dashboards with clear and impactful visuals
 
-Geographic Insights: Explore sales and returns across regions and countries
+## 🛠 Tools & Skills Used
 
-Returns Analysis: Identify patterns in product returns to guide improvements
+**Power BI** – Dashboard creation and data visualization
 
-🛠 Tools & Technologies
+**DAX (Data Analysis Expressions)** – Custom measures and KPIs
 
-Power BI – Dashboard creation and data visualization
+**Data Modeling** – Structuring datasets for effective reporting
 
-DAX (Data Analysis Expressions) – Custom measures and KPIs
+**CSV** – Source files for sales and returns data
 
-Data Modeling – Structuring datasets for effective reporting
+## About Project 💻
 
-Excel / CSV – Source files for sales and returns data
+This project presents a Power BI dashboard designed to analyze and monitor bike sales performance over multiple years. The goal is to transform raw sales data into a structured, interactive report that enables better decision-making. This project demonstrates how Power BI can be used to design professional dashboards that provide an end-to-end view of sales performance.
 
-📂 Dashboard Screenshots
-Sales Trends & KPIs
-
-Global Sales & Returns Analysis
-
-🚀 Key Learnings
-
-Building interactive dashboards with filters and slicers
-
-Creating data models to handle multiple datasets
-
-Applying DAX for calculations and KPIs
-
-Designing dashboards with clear and impactful visuals
+## Get in Touch 📬
+- **[Phone Number]**(20 1201991890)
+- **[Personal Website / Blog]**(https://www.canva.com/design/DAGeDwn60FY/xY0llUzQWp5yekWU_03X4w/edit?utm_content=DAGeDwn60FY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **[LinkedIn]**(https://www.linkedin.com/in/islamseddiq/)
