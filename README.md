@@ -20,6 +20,8 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 
 **Power BI** – Dashboard creation and data visualization
 
+**Microsoft SQL Server** – Quering and pre-analyze data
+
 **DAX (Data Analysis Expressions)** – Custom measures and KPIs
 
 **Data Modeling** – Structuring datasets for effective reporting
